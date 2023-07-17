@@ -1,22 +1,32 @@
-Soma e Média
-Objetivo: usando uma aplicação do tipo console do dotnet, criar uma aplicação que lê 3 à 10 números e realiza a soma e a média deles. Faça o controle de versionamento da sua aplicação com git e suba a mesma para o github.
+Calculadora
+Objetivo: usando uma aplicação do tipo console do dotnet, criar uma calculadora simples que terá as operações de soma, subtração, multiplicação e divisão. Faça o controle de versionamento da sua aplicação com git e suba a mesma para o github.
 
 Novos conceitos ou funcionalidades desse exercício
-Faremos uso de loops e arrays no exercício, tente fazer o mesmo usando ´for´ e o ´foreach´. Faça o possível também para criar métodos que recebam parâmetros e retornem valores, dessa forma teremos uma codificação mais limpa e de fácil leitura.
+Nossa primeira aplicação é bem simples e, se você já tem conhecimentos em lógica de programação, algoritmos e alguma linguagem de programação não terá problemas para desenvolver a aplicação. Faremos uso de operadores condicionais, estrutura condicional 'switch', criação e chamada de métodos simples.
 
-Estudar:
-
-Criação de métodos
-Receber parâmetros nos métodos
-Retorno de valores nos métodos
-Classe ´List´ do Dotnet
-Loops ´for´ e ´foreach´
 Requisitos para desenvolver a aplicação
-Ao abrir a aplicação deverá ser solicitado a quantidade de números que o usuário deseja informar. O número de valores deve ser entre 3 e 10.
+Ao entrar na calculadora o usuário deverá ter um menu com as opções 1, 2, 3, 4 e 0. Sendo elas:
 
-A aplicação deve aceitar números decimais, positivos e negativos.
+1 - Somar
 
-A aplicação deve percorrer a lista de números, calcular a soma e a média dos valores informados e imprimir o resultado para o usuário.
+2 - Subtrair
+
+3 - Multiplicar
+
+4 - Dividir
+
+0 - Sair
+
+Todas as operações devem solicitar que o usuário entre com dois valores e então estes valores devem ser utilizados para realizar a operação escolhida. Exemplo de fluxo da operação de Soma:
+
+Aplicação solicita o primeiro valor;
+Usuário digita valor e pressiona enter;
+Aplicação solicita o segundo valor;
+Usuário digita valor e pressiona enter;
+Aplicação escreve em tela o resultado da soma;
+Usuário pressiona Enter;
+Aplicação retorna para o menu;
+Para a operação de divisão, validar se o divisor é 0. Se verdadeiro deve ser exibida a mensagem "Não é possível dividir por zero."
 
 Opcional
 
