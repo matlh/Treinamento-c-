@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\Soma e média.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\Soma e média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\Soma e média.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\Soma e média.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\Soma e média.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\bin\Debug\net7.0\Soma e média.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\bin\Debug\net7.0\Soma e média.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\bin\Debug\net7.0\Soma e média.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\bin\Debug\net7.0\Soma e média.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\bin\Debug\net7.0\Soma e média.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\Soma e média.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\refint\Soma e média.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\Soma e média.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\Soma e média.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Soma e média\obj\Debug\net7.0\ref\Soma e média.dll
