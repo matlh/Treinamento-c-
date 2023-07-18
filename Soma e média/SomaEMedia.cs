@@ -1,4 +1,5 @@
 ﻿using System;
+using Soma_e_média;
 
 namespace SomaEMedia
 {
@@ -17,6 +18,8 @@ namespace SomaEMedia
                 System.Console.WriteLine ($"Digite o {i+1}° número: ");
                 Numeros [i] = decimal.Parse(Console.ReadLine());
             }
+
+            Console.WriteLine($"A soma dos números é: {Operacoes.Soma(Numeros)}\nA média é: {Operacoes.Media(Numeros, n)}");
 
         }
 
