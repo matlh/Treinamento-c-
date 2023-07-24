@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\bin\Debug\net7.0\Jogo de dados.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\bin\Debug\net7.0\Jogo de dados.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\bin\Debug\net7.0\Jogo de dados.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\bin\Debug\net7.0\Jogo de dados.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\bin\Debug\net7.0\Jogo de dados.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\Jogo de dados.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\Jogo de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\Jogo de dados.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\Jogo de dados.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\Jogo de dados.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\Jogo de dados.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\refint\Jogo de dados.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\Jogo de dados.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\Jogo de dados.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Jogo de dados\obj\Debug\net7.0\ref\Jogo de dados.dll
