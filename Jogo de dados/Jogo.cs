@@ -7,18 +7,26 @@ namespace Jogo
     {
         public static void Main()
         {
-            Console.WriteLine("Digite o nome do primeiro jogador");
-            Jogador J1 = new Jogador(Console.ReadLine());
+            string Jogador1, Jogador2;
+            
+            do
+            {
+                Console.WriteLine("Digite o nome do primeiro Jogador");
+                Jogador1 = Console.ReadLine();
 
-            Console.WriteLine("Digite o nome do segundo jogador");
-            Jogador J2 = new Jogador(Console.ReadLine());
+                Console.WriteLine("Digite o nome do primeiro Jogador");
+                Jogador2 = Console.ReadLine();
 
-            J1.Ponto();
-            J1.Ponto();
-            J1.Ponto();
-            J1.Ponto();
+                if (Jogador1 == Jogador2)
+                Console.WriteLine("Os dois nomes não podem ser iguais\n");
+            } while(Jogador1 == Jogador2);
 
-            Console.WriteLine($"Nome do jogador 1 é: {J1.Nome}\n Pontuação do Jogador 1 é: {J1.Pontuacao}");
+            Jogador J1 = new Jogador(Jogador1);
+            Jogador J2 = new Jogador(Jogador2);
+            
+            Console.WriteLine("Jogo iniciado\n");
+
+
         }
     }
 }
