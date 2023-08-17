@@ -37,6 +37,10 @@ public class Marcador
             Console.WriteLine($"{Caracteres}\n\n\n\n\n");
             break;
 
+            case 6:
+            Console.WriteLine($"{Caracteres}\n\n\n\n\n\n");
+            break;
+
             default:
             Console.WriteLine(Caracteres);
             break;
